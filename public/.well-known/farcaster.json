@@ -14,7 +14,7 @@
 
       "subtitle": "Instant strong passwords, anywhere.",
       "description": "PassGenie is a tiny mini app that crafts strong, unique passwords with customizable length and character sets, perfect for quick everyday use inside Base and Farcaster.",
-      "primaryCategory": "UTILITY",
+      "primaryCategory": "utility",
       "tags": ["fun","simple","utility"],
 
       "heroImageUrl": "https://passgen-lake-eight.vercel.app/assets/hero.png",
